@@ -56,5 +56,5 @@ WHERE class.name = 'CS 452';
 
 ## Additional review
 
-Feel free to look at [examples.md](examples) for further demonstration of the program.
+Feel free to look at [examples.md](examples.md) for further demonstration of the program.
 
